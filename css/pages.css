@@ -9,7 +9,7 @@ color: white;
 font-size: 34px;
 padding: 18px 10px;
 text-shadow: 2px 2px 3px #414245;
-font-family: Georgia, serif;
+font-family: 'Times New Roman', serif;
 }
 
 h2 {
@@ -21,9 +21,16 @@ text-shadow: 2px 2px 3px #414245;
 border-radius: 10px;
 font-family: Georgia, serif;
 }
-p{
-font-family: sans-serif;
+
+.center{
+	text-align: center;
 }
+
+.hover:hover{
+background-color:purple;
+padding:20px;
+}
+
 .container{
 /*width: 75%;*/
 margin: auto;
